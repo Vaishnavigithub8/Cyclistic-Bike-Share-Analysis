@@ -71,3 +71,10 @@ Morning and evening hours
  - Target casual riders with subscription offers
  - Promote memberships near high-traffic stations
  - Provide app-based incentives for frequent users
+
+Skills Demonstrated
+Data Cleaning & Preprocessing
+Exploratory Data Analysis (EDA)
+Data Visualization
+Business Insight Generation
+Problem Solving
