@@ -5,7 +5,6 @@ This project analyzes the usage patterns of Cyclistic’s bike-share system to u
 The primary objective is to provide data-driven recommendations to convert casual riders into annual members, thereby increasing company revenue.
 
 🎯 Business Problem
-
 Cyclistic wants to:
 
 Increase the number of annual memberships
@@ -15,11 +14,13 @@ Design targeted marketing strategies
 How do casual riders and members use bikes differently?
 When do users ride the most (day, time, season)?
 What insights can help convert casual riders into members?
+
 🛠️ Tools & Technologies
 Excel / Google Sheets – Data cleaning & preprocessing
 SQL – Data querying and transformation
 Python (Optional) – Data analysis (Pandas, NumPy)
 Tableau / Power BI – Data visualization & dashboard
+
 📂 Dataset
 Historical trip data of Cyclistic bike-share system
 Includes:
@@ -28,6 +29,7 @@ Ride type
 Start & end time
 Start & end station
 User type (casual / member)
+
 🔄 Project Workflow
 1. Ask
 Defined business problem and objectives.
@@ -42,9 +44,7 @@ Ride duration
 Day of week
 Month
 4. Analyze
-
 Performed comparative analysis:
-
 Average ride duration
 Ride frequency
 Peak usage times
@@ -55,7 +55,6 @@ User distribution
 Ride patterns
 Time-based trends
 6. Act
-
 Provided business recommendations.
 
 📊 Key Insights
@@ -68,7 +67,7 @@ Use bikes for commuting purposes
 Peak usage observed during:
 Morning and evening hours
 💡 Recommendations
-🎯 Launch weekend membership discounts
-📣 Target casual riders with subscription offers
-📍 Promote memberships near high-traffic stations
-📱 Provide app-based incentives for frequent users
+ -Launch weekend membership discounts
+ - Target casual riders with subscription offers
+ - Promote memberships near high-traffic stations
+ - Provide app-based incentives for frequent users
